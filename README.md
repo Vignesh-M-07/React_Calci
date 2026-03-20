@@ -1,7 +1,7 @@
 # Ex04 Simple Calculator - React Project
 ## Date: 15/03/2026
-Name : Vignesh M
-Reg. No : 212223040235
+## Name : Vignesh M
+## Reg. No : 212223040235
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
